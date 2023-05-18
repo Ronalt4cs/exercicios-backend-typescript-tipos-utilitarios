@@ -1,0 +1,31 @@
+{
+  "name": "exercicios-backend-typescript-tipos-utilitarios",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "buffer-from": "^1.1.2",
+    "esbuild": "^0.17.19",
+    "source-map": "^0.6.1",
+    "source-map-support": "^0.5.21",
+    "get-tsconfig": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-utilitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-utilitarios/issues"
+  },
+  "homepage": "https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-utilitarios#readme",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}
